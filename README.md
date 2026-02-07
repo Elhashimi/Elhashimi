@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Mohamed Gamal Elhashimi
+- 👋 Hi, I’m Mohamed Elhashimi
 - 👀 I’m SoftWare Engineer
