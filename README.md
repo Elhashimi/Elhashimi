@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elhashimi</h1>
 
 <h3 align="center">
-💻 Software Engineer • 📈 Digital Marketer • 🚀 Co-Founder @ TEAM-X
+💻 Software Engineer • 📈 Digital Marketer • 🚀 Co-Founder @ <a href="https://team-x.digital/">TEAM-X</a>
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Software+Engineer;Co-Founder+%40+TEAM-X;Digital+Marketer;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+%26+Scalable+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=850&lines=Software+Engineer;Digital+Marketer;Co-Founder+%40+TEAM-X;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+%26+Scalable+Digital+Products" />
 </p>
 
 ---
@@ -14,14 +14,14 @@
 
 I'm passionate about building modern, secure, and scalable digital products.
 
-As a **Software Engineer** and **Co-Founder of TEAM-X**, I focus on developing high-performance web applications, implementing secure architectures, and driving product growth through technology and digital marketing.
+As a **Software Engineer**, **Digital Marketer**, and **Co-Founder of [TEAM-X](https://team-x.digital/)**, I focus on developing high-performance web applications, implementing secure architectures, and driving business growth through technology and digital marketing.
 
 ---
 
 ## 💼 Expertise
 
-🔹 Full-Stack Development
 🔹 Software Architecture
+🔹 Full-Stack Development
 🔹 Cybersecurity
 🔹 Product Development
 🔹 Digital Marketing
@@ -39,42 +39,28 @@ As a **Software Engineer** and **Co-Founder of TEAM-X**, I focus on developing h
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elhashimi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Elhashimi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Elhashimi&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Elhashimi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://team-x.digital/" target="_blank">
+<img src="https://img.shields.io/badge/TEAM--X-FF6B00?style=for-the-badge" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mohamed-elhashimi/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge"/>
+<a href="https://www.facebook.com/elhashimii" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/elhashimi_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://wa.me/201065017311" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </p>
@@ -85,6 +71,6 @@ As a **Software Engineer** and **Co-Founder of TEAM-X**, I focus on developing h
 
 > Building innovative technology solutions that combine engineering excellence with measurable business results.
 
-### 🚀 TEAM-X
+### 🚀 [TEAM-X](https://team-x.digital/)
 
 Building the future through technology, innovation, and growth.
